@@ -1,1 +1,1 @@
-# Template
+# Coinbase API
